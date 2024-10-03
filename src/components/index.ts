@@ -1,0 +1,10 @@
+export { default as Navbar } from "./Navbar";
+export { default as Home } from "./Home";
+export { default as Button } from "./Button";
+export { default as Statistics } from "./Statistics";
+export { default as Contract } from "./Contact";
+export { default as Billing } from "./Billing";
+export { default as Busines } from "./Busines";
+export { default as Cta } from "./Cta";
+export { default as Testimonials } from "./Testimonials";
+export { default as Footer } from "./Footer";
